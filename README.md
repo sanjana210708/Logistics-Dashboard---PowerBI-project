@@ -23,7 +23,7 @@ By transforming raw logistics data into visual insights, the dashboard helps sta
 ## Project Files Explanation
 
 * **dashboard/Logistics Dashboard.pbix** – Power BI dashboard file containing all visualizations and data model.
-* **dataset/Logistics Dataset.xlsx** – Dataset used for building the dashboard.
+* **dataset/Logistics Dataset.csv** – Dataset used for building the dashboard.
 * **screenshots/** – Images of the dashboard showing the key visualizations and insights.
 
 ## Dashboard Screenshots
